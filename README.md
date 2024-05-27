@@ -1,4 +1,4 @@
-#SMV_LogReg_MultReg
+# SMV_LogReg_MultReg
 Comparing performance and training of (multi)-linear, support vector (SVM) regression with regression by a neuronal net (NN).
 
 ## Details
